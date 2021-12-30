@@ -2,6 +2,8 @@
 İMAGE-SLİDER PROJECT
 Responsive Design
 
+https://img-slider-project.netlify.app
+
 ![img1](https://user-images.githubusercontent.com/96665012/147761252-156d442e-689d-440d-ac1e-b78ffcf8b1c7.PNG)
 
 ![img2](https://user-images.githubusercontent.com/96665012/147761286-49055d8e-569c-47ed-9fab-14d7183962ce.PNG)
